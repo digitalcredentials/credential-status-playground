@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://digitalcredentials.github.io/credential-status-playground/JWZM3H8WKU#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIKP_F_vCBDQAAAAAAAAAAAAAAAB_A5QDGHrUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
-  "issuanceDate": "2022-08-19T06:36:19.043Z",
+  "issuanceDate": "2022-08-19T07:00:57.522Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-08-19T06:36:19Z",
+    "created": "2022-08-19T07:00:57Z",
     "verificationMethod": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC#z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z44uh5LUziEEFNpxwS5MhnTiY6GZtBSBnKUNjW4fCDscYcToTwkt9yUBCv4RZsFuZ4xhdScyfrxrUME1UtDfLTSmB"
+    "proofValue": "z1n1T9CjTNEQtK7KjGWyEK32UJ7JN5CXzECf4s2hGCKfsFPc5fRWTD4a2jEWosiDGkxSdTNHF3bZqCsLTbKyfSBP"
   }
 }
