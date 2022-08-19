@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "timestamp": "2022-08-19T06:51:44.660Z",
+    "credentialSubject": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
+    "credentialAction": "issued",
+    "issuerDid": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
+    "verificationMethod": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC#z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
+    "statusListCredential": "https://digitalcredentials.github.io/credential-status-playground/JWZM3H8WKU",
+    "statusListIndex": 1
+  }
+]
